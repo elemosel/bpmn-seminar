@@ -1,0 +1,13 @@
+decision_point,n_branches,classes,tree_depth,tree_leaves,tree_nodes
+p_20,2,"['W_Validate application', 'loop_20']",5,6,11
+p_13,2,"['loop_13', 'W_Validate application']",3,4,7
+p_14,2,"['A_Validating', 'loop_14']",1,2,3
+p_5,2,"['A_Accepted', 'loop_5']",1,2,3
+p_10,2,"['W_Call after offers', 'loop_10']",0,1,1
+p_3,2,"['A_Concept', 'loop_3']",0,1,1
+p_18,2,"['A_Incomplete', 'loop_18']",0,1,1
+p_21,2,"['A_Validating', 'loop_21']",0,1,1
+p_2,2,"['loop_2', 'W_Complete application']",0,1,1
+p_11,2,"['loop_11', 'A_Complete']",0,1,1
+p_17,2,"['W_Call incomplete files', 'loop_17']",0,1,1
+p_23,2,"['O_Accepted', 'loop_23']",0,1,1

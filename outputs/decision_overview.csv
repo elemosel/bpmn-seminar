@@ -1,0 +1,13 @@
+decision_point,top_split,branches
+p_18,(trivial / single class),"['A_Incomplete', 'loop_18']"
+p_14,OfferedAmount <= 19749.50,"['A_Validating', 'loop_14']"
+p_3,(trivial / single class),"['A_Concept', 'loop_3']"
+p_10,(trivial / single class),"['W_Call after offers', 'loop_10']"
+p_21,(trivial / single class),"['A_Validating', 'loop_21']"
+p_13,OfferedAmount <= 2499.50,"['loop_13', 'W_Validate application']"
+p_11,(trivial / single class),"['loop_11', 'A_Complete']"
+p_2,(trivial / single class),"['loop_2', 'W_Complete application']"
+p_5,OfferedAmount <= 8249.50,"['A_Accepted', 'loop_5']"
+p_17,(trivial / single class),"['W_Call incomplete files', 'loop_17']"
+p_20,OfferedAmount <= 30000.00,"['W_Validate application', 'loop_20']"
+p_23,(trivial / single class),"['O_Accepted', 'loop_23']"

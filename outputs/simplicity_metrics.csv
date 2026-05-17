@@ -1,0 +1,16 @@
+model,places,transitions,arcs,CC
+Alpha,12,26,55,19
+Inductive,46,71,150,35
+Heuristic,41,80,178,59
+net_final (teacher),47,79,184,60
+V1 (sequential),18,17,34,1
+V2 (happy path),28,27,54,1
+Iter1 (pattern-based),18,21,42,5
+Iter2 (+ W_Call loops),18,24,48,8
+Iter3 (+ all W loops),18,27,54,11
+V2+a (loops),28,40,80,14
+V2+b (loops + branches),28,44,88,18
+Multi-Outcome v1,31,48,96,19
+Multi-Outcome v2,36,77,154,43
+Multi-Outcome v3,36,86,172,52
+Multi-Outcome v4,27,47,94,22
